@@ -1,0 +1,23 @@
+[0.835s] Invoking command in '/home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/build --no-deps symlink_data --force
+[1.120s] running develop
+[1.121s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.121s]   warnings.warn(
+[1.282s] running egg_info
+[1.282s] writing examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[1.283s] writing dependency_links to examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[1.284s] writing entry points to examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[1.284s] writing requirements to examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[1.285s] writing top-level names to examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[1.287s] reading manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.287s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.290s] running build_ext
+[1.290s] Creating /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[1.290s] Installing subscriber_lambda script to /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.291s] Installing subscriber_member_function script to /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.291s] Installing subscriber_old_school script to /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.291s] 
+[1.291s] Installed /home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber
+[1.291s] running symlink_data
+[1.291s] symbolically linking /home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/resource/examples_rclpy_minimal_subscriber -> /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[1.291s] symbolically linking /home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/package.xml -> /home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/share/examples_rclpy_minimal_subscriber
+[1.465s] Invoked command in '/home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/yahboom/intro_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/examples_rclpy_minimal_subscriber/build --no-deps symlink_data --force

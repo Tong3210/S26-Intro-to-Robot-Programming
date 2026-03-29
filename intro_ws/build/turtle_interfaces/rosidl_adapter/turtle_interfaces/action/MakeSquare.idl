@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from turtle_interfaces/action/MakeSquare.action
+// generated code does not contain a copyright notice
+
+#include "turtle_interfaces/msg/TurtlePose.idl"
+
+module turtle_interfaces {
+  module action {
+    struct MakeSquare_Goal {
+      float square_size;
+    };
+    struct MakeSquare_Result {
+      turtle_interfaces::msg::TurtlePose final_pose;
+    };
+    struct MakeSquare_Feedback {
+      turtle_interfaces::msg::TurtlePose current_pose;
+    };
+  };
+};

@@ -1,0 +1,22 @@
+[0.654s] Invoking command in '/home/yahboom/intro_ws/build/python_parameters': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build --no-deps symlink_data --force
+[0.926s] running develop
+[0.926s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.926s]   warnings.warn(
+[1.093s] running egg_info
+[1.094s] writing python_parameters.egg-info/PKG-INFO
+[1.094s] writing dependency_links to python_parameters.egg-info/dependency_links.txt
+[1.096s] writing entry points to python_parameters.egg-info/entry_points.txt
+[1.097s] writing requirements to python_parameters.egg-info/requires.txt
+[1.097s] writing top-level names to python_parameters.egg-info/top_level.txt
+[1.100s] reading manifest file 'python_parameters.egg-info/SOURCES.txt'
+[1.100s] writing manifest file 'python_parameters.egg-info/SOURCES.txt'
+[1.102s] running build_ext
+[1.102s] Creating /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python-parameters.egg-link (link to .)
+[1.103s] Installing minimal_param_node script to /home/yahboom/intro_ws/install/python_parameters/lib/python_parameters
+[1.104s] 
+[1.104s] Installed /home/yahboom/intro_ws/build/python_parameters
+[1.105s] running symlink_data
+[1.105s] symbolically linking /home/yahboom/intro_ws/build/python_parameters/resource/python_parameters -> /home/yahboom/intro_ws/install/python_parameters/share/ament_index/resource_index/packages
+[1.105s] symbolically linking /home/yahboom/intro_ws/build/python_parameters/package.xml -> /home/yahboom/intro_ws/install/python_parameters/share/python_parameters
+[1.106s] symbolically linking /home/yahboom/intro_ws/build/python_parameters/launch/run_multi_launch.py -> /home/yahboom/intro_ws/install/python_parameters/share/python_parameters/launch
+[1.417s] Invoked command in '/home/yahboom/intro_ws/build/python_parameters' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build --no-deps symlink_data --force

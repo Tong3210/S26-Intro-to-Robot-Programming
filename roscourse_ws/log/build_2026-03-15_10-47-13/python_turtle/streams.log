@@ -1,0 +1,24 @@
+[0.930s] Invoking command in '/home/yahboom/roscourse_ws/src/python_turtle': PYTHONPATH=/home/yahboom/roscourse_ws/build/python_turtle/prefix_override:/home/yahboom/roscourse_ws/install/python_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_turtle build --build-base /home/yahboom/roscourse_ws/build/python_turtle/build install --record /home/yahboom/roscourse_ws/build/python_turtle/install.log --single-version-externally-managed install_data
+[1.179s] running egg_info
+[1.180s] writing ../../build/python_turtle/python_turtle.egg-info/PKG-INFO
+[1.180s] writing dependency_links to ../../build/python_turtle/python_turtle.egg-info/dependency_links.txt
+[1.181s] writing entry points to ../../build/python_turtle/python_turtle.egg-info/entry_points.txt
+[1.181s] writing requirements to ../../build/python_turtle/python_turtle.egg-info/requires.txt
+[1.182s] writing top-level names to ../../build/python_turtle/python_turtle.egg-info/top_level.txt
+[1.183s] reading manifest file '../../build/python_turtle/python_turtle.egg-info/SOURCES.txt'
+[1.184s] writing manifest file '../../build/python_turtle/python_turtle.egg-info/SOURCES.txt'
+[1.185s] running build
+[1.185s] running build_py
+[1.185s] running install
+[1.186s] running install_lib
+[1.187s] running install_data
+[1.187s] creating /home/yahboom/roscourse_ws/install/python_turtle/share/python_turtle/launch
+[1.187s] copying launch/turtle_teleop_launch.py -> /home/yahboom/roscourse_ws/install/python_turtle/share/python_turtle/launch
+[1.187s] running install_egg_info
+[1.189s] removing '/home/yahboom/roscourse_ws/install/python_turtle/lib/python3.10/site-packages/python_turtle-0.0.0-py3.10.egg-info' (and everything under it)
+[1.190s] Copying ../../build/python_turtle/python_turtle.egg-info to /home/yahboom/roscourse_ws/install/python_turtle/lib/python3.10/site-packages/python_turtle-0.0.0-py3.10.egg-info
+[1.190s] running install_scripts
+[1.210s] Installing turtlebot_client script to /home/yahboom/roscourse_ws/install/python_turtle/lib/python_turtle
+[1.211s] Installing turtlebot_server script to /home/yahboom/roscourse_ws/install/python_turtle/lib/python_turtle
+[1.211s] writing list of installed files to '/home/yahboom/roscourse_ws/build/python_turtle/install.log'
+[1.258s] Invoked command in '/home/yahboom/roscourse_ws/src/python_turtle' returned '0': PYTHONPATH=/home/yahboom/roscourse_ws/build/python_turtle/prefix_override:/home/yahboom/roscourse_ws/install/python_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_turtle build --build-base /home/yahboom/roscourse_ws/build/python_turtle/build install --record /home/yahboom/roscourse_ws/build/python_turtle/install.log --single-version-externally-managed install_data

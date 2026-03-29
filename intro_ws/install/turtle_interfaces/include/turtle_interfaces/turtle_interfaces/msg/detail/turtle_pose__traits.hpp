@@ -1,0 +1,1 @@
+/home/yahboom/intro_ws/build/turtle_interfaces/rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__traits.hpp

@@ -1,0 +1,18 @@
+[0.925s] Invoking command in '/home/yahboom/intro_ws/build/launch_testing_examples': PYTHONPATH=/home/yahboom/intro_ws/build/launch_testing_examples/prefix_override:/home/yahboom/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/launch_testing_examples/build --no-deps symlink_data
+[1.213s] running develop
+[1.213s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.213s]   warnings.warn(
+[1.367s] running egg_info
+[1.367s] writing launch_testing_examples.egg-info/PKG-INFO
+[1.370s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[1.370s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[1.370s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[1.370s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[1.378s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.379s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.382s] running build_ext
+[1.383s] Creating /home/yahboom/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[1.384s] 
+[1.384s] Installed /home/yahboom/intro_ws/build/launch_testing_examples
+[1.384s] running symlink_data
+[1.441s] Invoked command in '/home/yahboom/intro_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/launch_testing_examples/prefix_override:/home/yahboom/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/launch_testing_examples/build --no-deps symlink_data

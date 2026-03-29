@@ -1,0 +1,31 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating time_tf2_py.egg-info
+writing time_tf2_py.egg-info/PKG-INFO
+writing dependency_links to time_tf2_py.egg-info/dependency_links.txt
+writing entry points to time_tf2_py.egg-info/entry_points.txt
+writing requirements to time_tf2_py.egg-info/requires.txt
+writing top-level names to time_tf2_py.egg-info/top_level.txt
+writing manifest file 'time_tf2_py.egg-info/SOURCES.txt'
+reading manifest file 'time_tf2_py.egg-info/SOURCES.txt'
+writing manifest file 'time_tf2_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yahboom/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time-tf2-py.egg-link (link to .)
+Installing dynamic_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+Installing fixed_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+Installing turtle_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+Installing turtle_tf2_listener script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+
+Installed /home/yahboom/intro_ws/build/time_tf2_py
+running symlink_data
+creating /home/yahboom/intro_ws/install/time_tf2_py/share/ament_index
+creating /home/yahboom/intro_ws/install/time_tf2_py/share/ament_index/resource_index
+creating /home/yahboom/intro_ws/install/time_tf2_py/share/ament_index/resource_index/packages
+symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/resource/time_tf2_py -> /home/yahboom/intro_ws/install/time_tf2_py/share/ament_index/resource_index/packages
+symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/package.xml -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py
+creating /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_fixed_frame_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_dynamic_frame_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch

@@ -1,0 +1,1 @@
+/home/yahboom/intro_ws/build/turtle_interfaces/rosidl_typesupport_fastrtps_cpp/turtle_interfaces/srv/detail/set_colors__rosidl_typesupport_fastrtps_cpp.hpp

@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing test_tf2_py.egg-info/PKG-INFO
+writing dependency_links to test_tf2_py.egg-info/dependency_links.txt
+writing entry points to test_tf2_py.egg-info/entry_points.txt
+writing requirements to test_tf2_py.egg-info/requires.txt
+writing top-level names to test_tf2_py.egg-info/top_level.txt
+reading manifest file 'test_tf2_py.egg-info/SOURCES.txt'
+writing manifest file 'test_tf2_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yahboom/intro_ws/install/test_tf2_py/lib/python3.10/site-packages/test-tf2-py.egg-link (link to .)
+Installing dynamic_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/test_tf2_py/lib/test_tf2_py
+Installing fixed_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/test_tf2_py/lib/test_tf2_py
+Installing turtle_tf2_broadcaster script to /home/yahboom/intro_ws/install/test_tf2_py/lib/test_tf2_py
+Installing turtle_tf2_listener script to /home/yahboom/intro_ws/install/test_tf2_py/lib/test_tf2_py
+
+Installed /home/yahboom/intro_ws/build/test_tf2_py
+running symlink_data
+symbolically linking /home/yahboom/intro_ws/build/test_tf2_py/launch/tf2_dynamic_frame_demo.launch.py -> /home/yahboom/intro_ws/install/test_tf2_py/share/test_tf2_py/launch

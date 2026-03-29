@@ -1,0 +1,8 @@
+{
+  "package_name": "turtle_interfaces",
+  "non_idl_tuples": [
+    "/home/yahboom/intro_ws/src/turtle_interfaces:msg/TurtlePose.msg",
+    "/home/yahboom/intro_ws/src/turtle_interfaces:srv/SetColors.srv",
+    "/home/yahboom/intro_ws/src/turtle_interfaces:action/MakeSquare.action"
+  ]
+}

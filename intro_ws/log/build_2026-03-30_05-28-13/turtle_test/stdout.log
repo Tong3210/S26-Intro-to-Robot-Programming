@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating turtle_test.egg-info
+writing turtle_test.egg-info/PKG-INFO
+writing dependency_links to turtle_test.egg-info/dependency_links.txt
+writing entry points to turtle_test.egg-info/entry_points.txt
+writing requirements to turtle_test.egg-info/requires.txt
+writing top-level names to turtle_test.egg-info/top_level.txt
+writing manifest file 'turtle_test.egg-info/SOURCES.txt'
+reading manifest file 'turtle_test.egg-info/SOURCES.txt'
+writing manifest file 'turtle_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yahboom/intro_ws/install/turtle_test/lib/python3.10/site-packages/turtle-test.egg-link (link to .)
+Installing make_square script to /home/yahboom/intro_ws/install/turtle_test/lib/turtle_test
+Installing turtle script to /home/yahboom/intro_ws/install/turtle_test/lib/turtle_test
+
+Installed /home/yahboom/intro_ws/build/turtle_test
+running symlink_data
+creating /home/yahboom/intro_ws/install/turtle_test/share/ament_index
+creating /home/yahboom/intro_ws/install/turtle_test/share/ament_index/resource_index
+creating /home/yahboom/intro_ws/install/turtle_test/share/ament_index/resource_index/packages
+symbolically linking /home/yahboom/intro_ws/build/turtle_test/resource/turtle_test -> /home/yahboom/intro_ws/install/turtle_test/share/ament_index/resource_index/packages
+symbolically linking /home/yahboom/intro_ws/build/turtle_test/package.xml -> /home/yahboom/intro_ws/install/turtle_test/share/turtle_test

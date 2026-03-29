@@ -1,0 +1,4 @@
+[console_scripts]
+make_square = turtle_test.turtle_action_client:main
+turtle = turtle_test.turtle_service:main
+

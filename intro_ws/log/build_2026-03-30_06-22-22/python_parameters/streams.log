@@ -1,0 +1,39 @@
+[0.945s] Invoking command in '/home/yahboom/intro_ws/build/python_parameters': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build
+[1.231s] running develop
+[1.231s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.231s]   warnings.warn(
+[1.401s] Removing /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python-parameters.egg-link (link to .)
+[1.713s] Invoked command in '/home/yahboom/intro_ws/build/python_parameters' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build
+[1.714s] Invoking command in '/home/yahboom/intro_ws/src/python_parameters': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_parameters build --build-base /home/yahboom/intro_ws/build/python_parameters/build install --record /home/yahboom/intro_ws/build/python_parameters/install.log --single-version-externally-managed install_data --force
+[2.011s] running egg_info
+[2.011s] writing ../../build/python_parameters/python_parameters.egg-info/PKG-INFO
+[2.011s] writing dependency_links to ../../build/python_parameters/python_parameters.egg-info/dependency_links.txt
+[2.011s] writing entry points to ../../build/python_parameters/python_parameters.egg-info/entry_points.txt
+[2.011s] writing requirements to ../../build/python_parameters/python_parameters.egg-info/requires.txt
+[2.011s] writing top-level names to ../../build/python_parameters/python_parameters.egg-info/top_level.txt
+[2.011s] reading manifest file '../../build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[2.011s] writing manifest file '../../build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[2.011s] running build
+[2.011s] running build_py
+[2.011s] creating /home/yahboom/intro_ws/build/python_parameters/build
+[2.011s] creating /home/yahboom/intro_ws/build/python_parameters/build/lib
+[2.011s] creating /home/yahboom/intro_ws/build/python_parameters/build/lib/python_parameters
+[2.011s] copying python_parameters/__init__.py -> /home/yahboom/intro_ws/build/python_parameters/build/lib/python_parameters
+[2.011s] copying python_parameters/minimal_param_node.py -> /home/yahboom/intro_ws/build/python_parameters/build/lib/python_parameters
+[2.011s] running install
+[2.011s] running install_lib
+[2.011s] creating /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[2.011s] copying /home/yahboom/intro_ws/build/python_parameters/build/lib/python_parameters/__init__.py -> /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[2.011s] copying /home/yahboom/intro_ws/build/python_parameters/build/lib/python_parameters/minimal_param_node.py -> /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[2.011s] byte-compiling /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters/__init__.py to __init__.cpython-310.pyc
+[2.011s] byte-compiling /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters/minimal_param_node.py to minimal_param_node.cpython-310.pyc
+[2.011s] running install_data
+[2.011s] copying resource/python_parameters -> /home/yahboom/intro_ws/install/python_parameters/share/ament_index/resource_index/packages
+[2.011s] copying package.xml -> /home/yahboom/intro_ws/install/python_parameters/share/python_parameters
+[2.011s] copying launch/run_multi_launch.py -> /home/yahboom/intro_ws/install/python_parameters/share/python_parameters/launch
+[2.011s] running install_egg_info
+[2.011s] Copying ../../build/python_parameters/python_parameters.egg-info to /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python_parameters-0.0.0-py3.10.egg-info
+[2.011s] running install_scripts
+[2.019s] Installing minimal_param_node script to /home/yahboom/intro_ws/install/python_parameters/lib/python_parameters
+[2.019s] writing list of installed files to '/home/yahboom/intro_ws/build/python_parameters/install.log'
+[2.062s] Invoked command in '/home/yahboom/intro_ws/src/python_parameters' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/python_parameters build --build-base /home/yahboom/intro_ws/build/python_parameters/build install --record /home/yahboom/intro_ws/build/python_parameters/install.log --single-version-externally-managed install_data --force

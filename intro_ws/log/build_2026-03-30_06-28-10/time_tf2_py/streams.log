@@ -1,0 +1,27 @@
+[0.672s] Invoking command in '/home/yahboom/intro_ws/build/time_tf2_py': PYTHONPATH=/home/yahboom/intro_ws/build/time_tf2_py/prefix_override:/home/yahboom/intro_ws/install/time_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/time_tf2_py/build --no-deps symlink_data --force
+[0.969s] running develop
+[0.969s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.970s]   warnings.warn(
+[1.128s] running egg_info
+[1.128s] writing time_tf2_py.egg-info/PKG-INFO
+[1.128s] writing dependency_links to time_tf2_py.egg-info/dependency_links.txt
+[1.128s] writing entry points to time_tf2_py.egg-info/entry_points.txt
+[1.129s] writing requirements to time_tf2_py.egg-info/requires.txt
+[1.129s] writing top-level names to time_tf2_py.egg-info/top_level.txt
+[1.131s] reading manifest file 'time_tf2_py.egg-info/SOURCES.txt'
+[1.132s] writing manifest file 'time_tf2_py.egg-info/SOURCES.txt'
+[1.134s] running build_ext
+[1.134s] Creating /home/yahboom/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time-tf2-py.egg-link (link to .)
+[1.135s] Installing dynamic_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[1.135s] Installing fixed_frame_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[1.135s] Installing turtle_tf2_broadcaster script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[1.135s] Installing turtle_tf2_listener script to /home/yahboom/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[1.135s] 
+[1.135s] Installed /home/yahboom/intro_ws/build/time_tf2_py
+[1.135s] running symlink_data
+[1.136s] symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/resource/time_tf2_py -> /home/yahboom/intro_ws/install/time_tf2_py/share/ament_index/resource_index/packages
+[1.136s] symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/package.xml -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py
+[1.136s] symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_fixed_frame_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[1.136s] symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[1.136s] symbolically linking /home/yahboom/intro_ws/build/time_tf2_py/launch/tf2_dynamic_frame_demo.launch.py -> /home/yahboom/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[1.178s] Invoked command in '/home/yahboom/intro_ws/build/time_tf2_py' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/time_tf2_py/prefix_override:/home/yahboom/intro_ws/install/time_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/time_tf2_py/build --no-deps symlink_data --force

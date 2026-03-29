@@ -1,0 +1,3 @@
+/home/yahboom/intro_ws/build/turtle_interfaces/rosidl_adapter/turtle_interfaces:msg/TurtlePose.idl
+/home/yahboom/intro_ws/build/turtle_interfaces/rosidl_adapter/turtle_interfaces:srv/SetColors.idl
+/home/yahboom/intro_ws/build/turtle_interfaces/rosidl_adapter/turtle_interfaces:action/MakeSquare.idl

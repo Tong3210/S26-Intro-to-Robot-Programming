@@ -1,0 +1,19 @@
+[0.703s] Invoking command in '/home/yahboom/intro_ws/build/python_parameters': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build --no-deps symlink_data
+[0.998s] running develop
+[0.998s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.998s]   warnings.warn(
+[1.164s] running egg_info
+[1.165s] writing python_parameters.egg-info/PKG-INFO
+[1.169s] writing dependency_links to python_parameters.egg-info/dependency_links.txt
+[1.169s] writing entry points to python_parameters.egg-info/entry_points.txt
+[1.169s] writing requirements to python_parameters.egg-info/requires.txt
+[1.170s] writing top-level names to python_parameters.egg-info/top_level.txt
+[1.171s] reading manifest file 'python_parameters.egg-info/SOURCES.txt'
+[1.175s] writing manifest file 'python_parameters.egg-info/SOURCES.txt'
+[1.175s] running build_ext
+[1.175s] Creating /home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages/python-parameters.egg-link (link to .)
+[1.175s] Installing minimal_param_node script to /home/yahboom/intro_ws/install/python_parameters/lib/python_parameters
+[1.176s] 
+[1.176s] Installed /home/yahboom/intro_ws/build/python_parameters
+[1.176s] running symlink_data
+[1.473s] Invoked command in '/home/yahboom/intro_ws/build/python_parameters' returned '0': PYTHONPATH=/home/yahboom/intro_ws/build/python_parameters/prefix_override:/home/yahboom/intro_ws/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/intro_ws/build/python_parameters/build --no-deps symlink_data

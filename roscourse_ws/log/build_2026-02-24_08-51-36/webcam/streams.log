@@ -1,0 +1,27 @@
+[0.635s] Invoking command in '/home/yahboom/roscourse_ws/build/webcam': PYTHONPATH=/home/yahboom/roscourse_ws/build/webcam/prefix_override:/home/yahboom/roscourse_ws/install/webcam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/roscourse_ws/build/webcam/build --no-deps symlink_data
+[0.886s] running develop
+[0.887s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.887s]   warnings.warn(
+[1.018s] running egg_info
+[1.018s] creating webcam.egg-info
+[1.018s] writing webcam.egg-info/PKG-INFO
+[1.019s] writing dependency_links to webcam.egg-info/dependency_links.txt
+[1.019s] writing entry points to webcam.egg-info/entry_points.txt
+[1.019s] writing requirements to webcam.egg-info/requires.txt
+[1.019s] writing top-level names to webcam.egg-info/top_level.txt
+[1.019s] writing manifest file 'webcam.egg-info/SOURCES.txt'
+[1.022s] reading manifest file 'webcam.egg-info/SOURCES.txt'
+[1.022s] writing manifest file 'webcam.egg-info/SOURCES.txt'
+[1.025s] running build_ext
+[1.026s] Creating /home/yahboom/roscourse_ws/install/webcam/lib/python3.10/site-packages/webcam.egg-link (link to .)
+[1.026s] Installing webcam_pub script to /home/yahboom/roscourse_ws/install/webcam/lib/webcam
+[1.026s] Installing webcam_sub script to /home/yahboom/roscourse_ws/install/webcam/lib/webcam
+[1.027s] 
+[1.027s] Installed /home/yahboom/roscourse_ws/build/webcam
+[1.027s] running symlink_data
+[1.027s] creating /home/yahboom/roscourse_ws/install/webcam/share/ament_index
+[1.027s] creating /home/yahboom/roscourse_ws/install/webcam/share/ament_index/resource_index
+[1.027s] creating /home/yahboom/roscourse_ws/install/webcam/share/ament_index/resource_index/packages
+[1.027s] symbolically linking /home/yahboom/roscourse_ws/build/webcam/resource/webcam -> /home/yahboom/roscourse_ws/install/webcam/share/ament_index/resource_index/packages
+[1.027s] symbolically linking /home/yahboom/roscourse_ws/build/webcam/package.xml -> /home/yahboom/roscourse_ws/install/webcam/share/webcam
+[1.060s] Invoked command in '/home/yahboom/roscourse_ws/build/webcam' returned '0': PYTHONPATH=/home/yahboom/roscourse_ws/build/webcam/prefix_override:/home/yahboom/roscourse_ws/install/webcam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/roscourse_ws/build/webcam/build --no-deps symlink_data
